@@ -1,16 +1,9 @@
-# test_dock
+Movable Dock App Assignment —
 
-A new Flutter project.
+We’d like you to complete a test task to assess your skills.
 
-## Getting Started
+Assignment Rules:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• You may use any documentation or search engines for reference.
+• However, using AI tools or automation is strictly prohibited.
+• We have systems in place to detect AI usage, so refrain from using any AI assistance (such as ChatGPT, Microsoft Copilot, or any similar tools).
